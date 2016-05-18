@@ -1,9 +1,9 @@
 #CodeIgniter-Braintree-Lib
 ###### A simple implementation for codeigniter 3.*
 
-This is a simple Codeigniter wrapper for braintree php sdk.
+This is a simple Codeigniter wrapper for Braintree php sdk.
 Is ready to use, don't forget to put your keys inside the config file.
-It has been tested with 3.11.0 version of Braintree but it can be updated with any braintree 3.* version
+It has been tested with 3.11.0 version of Braintree but it can be updated with any Braintree 3.* version
 
 `Braintree PHP SDK 3.*`
 
